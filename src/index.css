@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .color1 {
+    background-color: #0b111d;
+  }
+  .color2{
+    background-color: #202B3D;
+  }
+  .check {
+    border: 1px solid red;
+  }
+  .check1 {
+    border: 1px solid white;
+  }
+  .check2 {
+    border: 1px solid greenyellow;
+  }
+}
